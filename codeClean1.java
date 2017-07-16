@@ -55,3 +55,15 @@ else
 	l= 01;
 
 
+// UTILIZAR NOMBRES QUE SE PUEDA PRONUNCIAR
+
+class DtaRcrd02{
+	private Date genymdhms;
+	private Date modymdhms;
+	...
+}
+class Customer{
+	private Date generationTimeStamp;
+	private Date modificationsTimeStamp;
+	...
+}
