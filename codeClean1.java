@@ -67,3 +67,29 @@ class Customer{
 	private Date modificationsTimeStamp;
 	...
 }
+
+
+//PREFIJOS DE MIEMBROS
+public class Part {
+	private String  m_dsc
+	void setNanme(String name){
+	m_dsc = name;
+	}
+
+}
+
+public class Part {
+	private String  description	
+	void setNanme(String description){
+	description = description;
+	}
+}
+
+//INTERFACES E IMPLMENTACIONES
+
+class interface shapeFactory
+
+class shapeFactoryImp implments shapeFactory
+
+
+
