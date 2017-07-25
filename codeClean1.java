@@ -92,4 +92,28 @@ class interface shapeFactory
 class shapeFactoryImp implments shapeFactory
 
 
+//************************************************************************************************************
 
+// MULTI
+(function(){
+
+    var firstName = 'John',
+        lastName = 'Doe',
+        fullName = firstName + ' ' + lastName;
+        
+    // The rest of the function body
+}());
+
+
+// use strict
+(function(){
+
+    name = 'John';
+}());
+
+(function(){
+
+    'use strict';
+    name = 'John';
+	
+}());
